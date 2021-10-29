@@ -1,0 +1,10 @@
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\bin\Debug\CackePcNotepad.exe
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\bin\Debug\CackePcNotepad.pdb
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.csproj.AssemblyReference.cache
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.Form1.resources
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.Properties.Resources.resources
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.csproj.GenerateResource.cache
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.csproj.CoreCompileInputs.cache
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.exe
+C:\Users\Misha\OneDrive\Рабочий стол\CackeNotepad\CackePcNotepad\obj\Debug\CackePcNotepad.pdb
