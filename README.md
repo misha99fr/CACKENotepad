@@ -1,4 +1,6 @@
 # CACKENotepad
 This Is my Notepad
-RELEASE SOON!!!
-AND SOURCE SOON!!!
+SOURCE CODE SOON!!!
+READ PLEASE
+ITS MY NOTEPAD
+Required:Windows 7/8/8.1/10 Net Framework x64 or x86
